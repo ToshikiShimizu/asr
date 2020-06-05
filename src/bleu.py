@@ -1,10 +1,6 @@
 import unittest
 import numpy as np
-from hmmlearn.hmm import MultinomialHMM
 import nltk
-import math
-from collections import Counter
-
 import math
 from collections import Counter
 
